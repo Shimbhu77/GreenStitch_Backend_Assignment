@@ -1,4 +1,4 @@
-# GreenStitch Assignment
+# GreenStitch Backend Assignment
 # Login and Signup Backend API with Spring Security and JWT Tokens
 
 This project is a backend implementation of a login and signup REST API with security and JWT tokens. It is built using Java, and Spring Boot, and utilizes the H2 database for data storage. The API endpoints provided below demonstrate the functionality of the application.
@@ -15,13 +15,13 @@ This project is a backend implementation of a login and signup REST API with sec
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/Shimbhu77/GreenStitch_Assignment.git
+git clone https://github.com/Shimbhu77/GreenStitch_Backend_Assignment.git
 ```
 
 ### 2. Go the Project
 
 ```
-cd GreenStitch_Assignment/GreenStitch_Assignment
+cd GreenStitch_Backend_Assignment/GreenStitch_Assignment
 
 ```
 
@@ -96,7 +96,7 @@ cd GreenStitch_Assignment/GreenStitch_Assignment
 - Response: A welcome message string.
 - Example:
     - Bearer Token: eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJTaGltYmh1Iiwic3ViIjoiSldUIFRva2VuIiwidXNlcm5hbWUiOiJza0BnbWFpbC5jb20iLCJyb2xlIjoiUk9MRV9VU0VSIiwiaWF0IjoxNjg1Njc3Mzg3LCJleHAiOjE2ODU3MDczODd9.VwM2IGD1fABjEcnNoMb4uIyBnYe3_BmZGx33dElaD-E
-    - Response: Welcome to Shimbhu's Website: Shimbhu Kumawat
+    - Response: Hello from GreenStitch
 
 ### Tech Stack
 
